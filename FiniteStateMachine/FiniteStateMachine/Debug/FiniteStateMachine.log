@@ -1,2 +1,3 @@
 ﻿  FSM.cpp
-  FiniteStateMachine.vcxproj -> C:\Users\Tyler\Documents\Visual Studio 2017\Projects\FiniteStateMachine\Debug\FiniteStateMachine.exe
+c:\users\tyler\documents\github\portfolio-mrchooch1819\finitestatemachine\finitestatemachine\fsm.cpp(177): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FiniteStateMachine.vcxproj -> C:\Users\Tyler\Documents\GitHub\portfolio-mrchooch1819\FiniteStateMachine\Debug\FiniteStateMachine.exe
